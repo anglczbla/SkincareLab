@@ -5,7 +5,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-informational)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-**SkincareLab** adalah aplikasi mobile yang dibangun menggunakan **Flutter**, dirancang untuk membantu pengguna mengelola rutinitas perawatan kulit mereka. Aplikasi ini memungkinkan pengguna untuk menyimpan informasi produk skincare, memberikan ulasan dan rating, serta mengatur pengingat pemakaian secara rutin.
+**SkincareLab** adalah aplikasi mobile berbasis Flutter yang memungkinkan pengguna untuk mengeksplorasi berbagai produk skincare lengkap dengan informasi detail dan harga. Aplikasi ini juga dilengkapi dengan sistem pembelian yang terintegrasi, sehingga pengguna dapat langsung melakukan transaksi melalui perangkat mobile mereka. Dengan tampilan yang modern dan kemudahan navigasi, SkincareLab bertujuan memberikan pengalaman berbelanja skincare yang praktis, cepat, dan informatif kapan saja dan di mana saja.
+
 
 Proyek ini dikembangkan sebagai latihan pribadi untuk mengeksplorasi kemampuan Flutter dan Dart dalam pengembangan aplikasi lintas platform.
 
